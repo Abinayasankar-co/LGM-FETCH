@@ -32,6 +32,18 @@ li a {
 li a:hover{
   background-color: #111;
 }
+
+.tables{
+   width: 100%;
+   align-items: center;
+}
+
+.tables td{
+  
+  padding: 8px;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
